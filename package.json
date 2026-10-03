@@ -11,6 +11,7 @@
     "bin",
     "lib",
     "README.md",
+    "README.zh-CN.md",
     "LICENSE"
   ],
   "engines": {

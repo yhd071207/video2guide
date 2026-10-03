@@ -1,5 +1,7 @@
 # video2guide
 
+**English** | [简体中文](README.zh-CN.md)
+
 **Turn tutorial videos into illustrated step-by-step guides (single-file HTML + PDF).**
 **把教程视频一键转成图文分步攻略。**
 
