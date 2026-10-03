@@ -1,0 +1,43 @@
+{
+  "name": "video2guide",
+  "version": "0.1.0",
+  "description": "Turn tutorial videos into illustrated step-by-step guides (HTML + PDF). 把教程视频一键转成图文分步攻略。",
+  "type": "module",
+  "bin": {
+    "video2guide": "bin/video2guide.mjs"
+  },
+  "main": "bin/video2guide.mjs",
+  "files": [
+    "bin",
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "optionalDependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0"
+  },
+  "keywords": [
+    "video",
+    "tutorial",
+    "guide",
+    "notes",
+    "ffmpeg",
+    "scene-detection",
+    "documentation",
+    "screenshot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhd071207/video2guide.git"
+  },
+  "homepage": "https://github.com/yhd071207/video2guide#readme",
+  "bugs": "https://github.com/yhd071207/video2guide/issues",
+  "author": {
+    "name": "yhd071207",
+    "url": "https://github.com/yhd071207"
+  },
+  "license": "MIT"
+}

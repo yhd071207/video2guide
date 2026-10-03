@@ -1,0 +1,4 @@
+node_modules/
+*-out/
+guide-out/
+*.log
