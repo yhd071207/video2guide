@@ -3,6 +3,9 @@
 **Turn tutorial videos into illustrated step-by-step guides (single-file HTML + PDF).**
 **把教程视频一键转成图文分步攻略。**
 
+> 🤖 This project was built end-to-end by **ZCode**, an AI coding agent powered by **GLM-5.3** (Zhipu AI / 智谱) — design, implementation, testing and this repository, in a single session.
+> 本项目由智谱 **GLM-5.3** 驱动的 AI 编程助手 ZCode 一次性完成开发、测试与发布。
+
 Drop in any local video — `video2guide` detects scene cuts, pulls a keyframe for every
 step, and lays everything out as a clean, shareable guide. It does the mechanical part
 of video note-taking; you add the words.
